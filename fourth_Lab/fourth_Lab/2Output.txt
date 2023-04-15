@@ -1,0 +1,2 @@
+scnd sTr
+	scnd STR
